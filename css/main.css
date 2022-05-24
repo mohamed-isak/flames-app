@@ -1,0 +1,103 @@
+body
+{
+	background-color:#9691914f!important;
+}
+input[type="button"]:focus {
+    
+    outline: none;
+    }
+.nav
+{
+	width: 110%;
+    height: 70px;
+    background-color: #6600cd;
+    border-radius: 0 0 10% 10%;
+}
+.gifs
+{
+    height: 60px;
+    width: 60px;
+    margin: 16px 0 0 12px;
+}
+.nav p
+{
+	font-size: 20px;
+    color: white;
+    margin: 17px 0 0 0;
+    font-weight: bold;
+}
+.nav h6
+{
+	font-size: 20px;
+    color: white;
+    margin:  23px 0 0 120px;
+    font-weight: bold;
+}
+.form-bg
+{
+	margin: 50px 0 0 100px;
+}
+.name
+{
+    margin: 10% 0 0 -60%;
+    display: inline-block;
+    border: 1px solid #ffffff42;
+    background-color: #fff;
+    border-radius: 7px;
+    border:3px solid #6600cd;
+    box-sizing: border-box;
+    -webkit-box-shadow: 1px 1px 6px 2px rgba(237,234,237,1);
+    -moz-box-shadow: 1px 1px 6px 2px rgba(237,234,237,1);
+    box-shadow: 1px 1px 6px 2px rgba(237,234,237,1);
+    padding: .9em 1.4em .5em .8em;
+    width: 176%;
+}
+input::-webkit-input-placeholder {
+  -webkit-transition: color 300ms ease;
+  transition: color 300ms ease;
+}
+input[type="text"]:focus {
+  
+  outline: none;
+}
+.inputs__label
+{
+	color: #6600cd;
+    font-size: 19px;
+    margin: 0 0 0 -98px;
+}
+.inputs__label2
+{
+	color: #6600cd;
+    font-size: 19px;
+    margin: 0 0 0 -220px;
+}
+.buttonMini
+{
+		 display: block;
+  text-align: center;
+  font-weight: bold;
+  color:#fff;
+  text-decoration: none;
+  background-color: #6600cd;
+  padding:4px 50px;
+  border-radius: 20px;
+  margin:10% 0 0 -49%;
+  border: 5px solid #6600cd;
+  -webkit-box-shadow: 3px 3px 5px 0px rgba(143,136,143,0.7);
+-moz-box-shadow: 3px 3px 5px 0px rgba(143,136,143,0.7);
+box-shadow: 3px 3px 5px 0px rgba(143,136,143,0.7);	
+transition: all 0.15s ease 0s;
+}
+#nam1
+{
+color: black;
+    font-size: 20px;
+    margin: 27px 0 0 -47px;
+    font-weight: bold;	
+}
+#msg
+{
+	font-size: 22px;
+	margin: 12px 0 0 42px;
+}
